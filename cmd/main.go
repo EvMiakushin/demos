@@ -12,7 +12,5 @@ func main() {
 	fmt.Println(100)
 	fmt.Println(200)
 	fmt.Println(dffAB(4, 7))
-	fmt.Println(100)
-	fmt.Println(200)
 
 }
